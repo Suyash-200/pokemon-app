@@ -2,8 +2,6 @@
 
 Discover, collect, and organize your favorite Pokémon with a sleek, modern React application.
 
-![Pokémon App Screenshot](./screenshot.png) <!-- Add actual screenshot path -->
-
 ---
 
 ## 🚀 Features
@@ -57,6 +55,7 @@ npm install --legacy-peer-deps
 
 # 3. Start the dev server
 npm run dev
+
 📁 Project Structure
 src/
 ├── components/
